@@ -1,6 +1,3 @@
-**Домашнее задание к занятию «2.3. Patterns»**
-***Задача №1: заказ доставки карты (изменение даты)***
+**Задача №1: проснулись (Allure)**
 
-Необходимо автоматизировать тестирование новой функции формы заказа доставки карты, [согласно условию задачи](https://github.com/netology-code/aqa-homeworks/tree/master/patterns).
-
-[![Java CI with Gradle](https://github.com/SergeyAbrosimov-87/Patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/SergeyAbrosimov-87/Patterns/actions/workflows/gradle.yml)
+![Allure result](https://github.com/user-attachments/assets/1b717797-705b-4eaf-ba2c-9d6a685674c9)
